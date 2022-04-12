@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 646C-994B
+
+ Directory of C:\Users\Asya\test
+
+12.04.2022 £.  19:04    <DIR>          .
+12.04.2022 £.  19:04    <DIR>          ..
+12.04.2022 £.  19:04                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  433ÿ084ÿ006ÿ400 bytes free
